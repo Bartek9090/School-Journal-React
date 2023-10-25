@@ -1,0 +1,10 @@
+.header {
+  text-align: center;
+  margin: 0.3rem auto 10px auto;
+}
+
+.header img {
+  background-color: transparent;
+  border-radius: 50px;
+  width: 40%;
+}

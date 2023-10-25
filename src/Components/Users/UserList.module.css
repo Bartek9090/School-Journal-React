@@ -1,0 +1,23 @@
+.users {
+  margin: 2rem auto;
+  width: 40%;
+  max-width: 40rem;
+}
+
+.users ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.users li {
+  border: 1px solid #ccc;
+  margin: 0.2rem 0;
+  padding: 0.5rem;
+  text-align: center;
+}
+.users h4 {
+  text-align: center;
+  margin: 0.5rem;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
