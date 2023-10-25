@@ -10,7 +10,7 @@ The purpose of building this project was to acquire and consolidate knowledge co
 This is a simple project that allows you to enter name, surname, class and some grades.
 An additional program will calculate the student's grade point average.
 ### ScreenShot
-![SchoolJournal](https://github.com/Bartek9090/School-Journal/assets/80546803/a16e370f-8bcc-4672-ab4d-4b93cab300fd)
+![SchoolJournal](https://github.com/Bartek9090/school-journal-react/assets/80546803/9c82a422-f1a2-4f1b-ab36-88578b036f26)
 
 ## Technologies:
 * [React](https://reactjs.org/) version: 17.0.2
