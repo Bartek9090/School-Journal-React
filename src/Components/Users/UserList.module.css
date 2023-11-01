@@ -1,12 +1,11 @@
 .users {
   margin: 2rem auto;
-  width: 40%;
-  max-width: 40rem;
+  width: 70%;
 }
 
 .users ul {
   list-style: none;
-  padding: 1rem;
+  padding: 0.1rem;
 }
 
 .users li {
